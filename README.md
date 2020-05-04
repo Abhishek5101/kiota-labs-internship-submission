@@ -15,4 +15,4 @@ Send your submissions through Internshala itself, or mail us directly at aditya@
 **Notes**:
 - [x] Add Python questions
 - [ ] Add Javascript questions
-- [ ] Maybe add links to external sources for clarification of terms
+- [ ] Maybe add links to external sources for clarification of terms# kiota-labs-internship-submission
